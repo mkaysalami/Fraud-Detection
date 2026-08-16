@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# Fraud-Detection-System
-=======
 # Transaction Monitoring & Fraud Alert System
 
 A rule-based fraud detection API, with every rule chosen, calibrated, and
@@ -190,5 +188,3 @@ integration tests against the full API.
   velocity/time-based features more rigorously than the (unsupported)
   rapid-succession hypothesis I started with.
 >>>>>>> 5671340 (Initial commit)
-# Fraud-Detection
-# Fraud-Detection
